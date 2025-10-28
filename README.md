@@ -1,6 +1,4 @@
-완벽한 README 문서를 작성해드리겠습니다!
 
-```markdown
 # 반도체 비즈니스 문서 QA API
 
 > PDF 문서 기반 질의응답 시스템 - FastAPI + LangChain + EXAONE LLM
