@@ -28,8 +28,7 @@ wheels/
 .env.local
 
 # 데이터
-data/pdf_documents/*.pdf
-data/vector_db/
+vector_db/
 
 # 로그
 logs/
@@ -47,5 +46,4 @@ logs/
 Thumbs.db
 
 # 모델 캐시
-models/
 .cache/
